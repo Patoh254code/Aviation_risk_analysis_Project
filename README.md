@@ -5,7 +5,9 @@ Our company is diversifying their portfolio by venturing into the aviation indus
 
 ## **Objectives**
 1.Identify the aircract models with lowest accidents rate
+
 2.Identify risk factors contributing to aircraft accidents
+
 3.Evaluate flight risks based on operations
 
 ## **Data Understanding**
