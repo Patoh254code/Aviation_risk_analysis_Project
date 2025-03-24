@@ -37,12 +37,12 @@ Our company is diversifying their portfolio by venturing into the aviation indus
 
 1. The following chart shows the safest aircrafts based on lowest number of accidents for private and commercial flights to be prioritized:
 
-![Safest Aircracts](Images/Safest-aircrafts.png)
+(Images/Safest-aircrafts.png)
 
 
 2. The following chart shows that most accidents occurred under VMC(Visual Meteorological Conditions) to suggest that weather is not the primary risk factor associated with accidents but rather human error and possibly mechanical issues:
 
-![Weather Conditions as risk factor](Images/Weather-Impact.png)
+(Images/Weather-Impact.png)
 
 3. The following chart shows that venturing into private flight operations is riskier than commercial flights operations:
 
