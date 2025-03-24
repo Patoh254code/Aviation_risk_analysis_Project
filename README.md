@@ -44,7 +44,7 @@ Our company is diversifying their portfolio by venturing into the aviation indus
 
 2. The following chart shows that most accidents occurred under VMC(Visual Meteorological Conditions) to suggest that weather is not the primary risk factor associated with accidents but rather human error and possibly mechanical issues:
 
-<img src=Images/Weather-Impact.png width='600'>
+<img src=Images/Weather-Impact.png width='200'>
 
 
 
