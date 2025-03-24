@@ -59,9 +59,11 @@ Our company is diversifying their portfolio by venturing into the aviation indus
 
 ## **Conclusion**
 
-1. Prioritize Safe Aircraft Models: Invest in those with low accident and fatality rates.
-2. Enhance Pilot Training: Since most accidents happen in clear weather, focus on human error reduction.
-3. Aircraft service: Establish guideline on the level of service required to minimize mechanical issues
-3. Operations: Prioritize commercial flights and gradually progress to private flights based on profits and further research
+From out analysis of the Aviation Data we can conclude the following:
+
+1. The aircrafts with the high number of accidents may be due to high levels of usage
+2. Adverse weather conditions is a significant risk factor in aircraft accidents but it has not been the primary risk factor in the  
+21st Century. Additionally, Significant number of accidents often occur during landing, taking off and cruising
+3. Private flights have encountered a significant high number of accidents as compared to commercial flights
 
 
