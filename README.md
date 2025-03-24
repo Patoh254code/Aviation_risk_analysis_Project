@@ -1,15 +1,15 @@
 # 1.0 **Project Title: Aircraft Risk Assessment for Business Expansion**
-### 1.0.1 **Author:** Patrice Okoiti
+### **Author:** Patrice Okoiti
 
 ## 1.1 **Overview**
 For this project, I will use data cleaning, imputation, analysis, and visualization to generate insights in the aviation industry for a business stakeholder looking to diversify operations.
 
 ## 1.2 **Data Understanding**
-The selected Dataset for our analysis is AviationData.csv from the National Transportation Safety board deatailing the civil aviation accidents and selected incidents in the United States and international waters between 1962 and 2023. It details aircraft accidents, including information on accident, aircraft specifications, weather conditions, and injury severity which are relevant to our analysis.
+The selected Dataset https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses for our analysis is from the National Transportation Safety Board, available on Kaggle, detailing the civil aviation accidents and selected incidents in the United States and international waters between 1962 and 2023. It details aircraft accidents, including information on accident, aircraft specifications, weather conditions, and injury severity which are relevant to our analysis.
 
-### 1.2.1**column description**
+### 1.2.1 **column description**
 | **Columns** | **Description** |
-|-------------|-----------------|
+|-------------|-- -------------|
 | Event Id, Accident Number, Event Date, Location, Country, Latitude, Longitude, Airport Code, Airport Name | Unique identifiers for each accident and its location. |
 | Make, Model, Aircraft Category, Amateur Built, Number of Engines, Engine Type | Details about the aircraft involved in the accident. |
 | Injury Severity, Aircraft Damage, Weather Condition, Broad Phase of Flight | Risk factors contributing to the accident. |
