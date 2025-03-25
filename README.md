@@ -33,6 +33,7 @@ Umoja Logistics is diversifying their portfolio by venturing into the aviation i
 1. Descriptive Statistics: Summarizing the accident counts based on aircraft model, risk factors and operations of the aircraft.
 2. Data visualisation: Use of bar charts and line charts to visualize the above descriptive statistics.
 3. Risk Assessment: Identify risk factors associated with number of accidents of the aircrafts.
+4. Interactive Dashboard: https://public.tableau.com/views/learn-project-03-28-25-PO/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 1.6 **Key Findings**
 
