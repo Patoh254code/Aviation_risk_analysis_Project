@@ -1,11 +1,11 @@
-# 1.0 **Project Title: Aircraft Risk Assessment for Business Expansion**
-### **Author:** Patrice Okoiti
+# 1.0 **Project Title: Risk Assessment for the Operation of Private and Commercial Aircrafts**
+### ***Author:*** Patrice Okoiti
 
 ## 1.1 **Overview**
-For this project, I will use data cleaning, imputation, analysis, and visualization to generate insights in the aviation industry for a business stakeholder looking to diversify operations.
+This is a detailed project designed to help Umoja Logistics and other organisations looking to venture into the aviation industry, for private and commercial operations, to fully understand the risk factors associated with the indutry and act as a selection guide for the best operations category and the safest aircraft to start with. The analysis involves data cleaning, imputation, analysis, and visualization to generate insights for the board of directors.
 
 ## 1.2 **Data Understanding**
-The selected Dataset https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses for our analysis is from the National Transportation Safety Board, available on Kaggle, detailing the civil aviation accidents and selected incidents in the United States and international waters between 1962 and 2023. It details aircraft accidents, including information on accident, aircraft specifications, weather conditions, and injury severity which are relevant to our analysis.
+The selected Dataset https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses for this analysis is from the National Transportation Safety Board, available on Kaggle, detailing the civil aviation accidents and selected incidents in the United States and international waters between 1962 and 2023. It details aircraft accidents, including information on accident, aircraft specifications, weather conditions, and injury severity which are relevant to this analysis.
 
 ### 1.2.1 **column description**
 | **Columns** | **Description** |
@@ -16,33 +16,33 @@ The selected Dataset https://www.kaggle.com/datasets/khsamaha/aviation-accident-
 | FAR Description, Schedule, Purpose of Flight, Air Carrier | Type of operations and flight purpose. |
 | Total Fatal Injuries, Total Serious Injuries, Total Minor Injuries, Total Uninjured | Casualties per accident. |
 
-*Features:* The most important features relevant to our analysis from our dataset include unique identifiers of aircraft, that is, Make, Model, Date and risk factors associated with aircraft accidents, that is, Weather Conditions, Broad phase of flight
+-***Features:*** The most important features relevant to the analysis from the dataset include unique identifiers of aircraft, that is, Make, Model, Date and risk factors associated with aircraft accidents, that is, Weather Conditions, Broad phase of flight
 
-*Target:* The target audience for this analysis is a business stakeholder looking to diversify operations into the aviation industry, particularly in private and commercial flights operations
+-***Target:*** The target audience for this analysis is the board of directors of Umoja Logistics and any other organisation who looking to diversify their portfolio by venturing into aviation industry, particularly operating private and commercial aircrafts.
 
 ## 1.3 **Business problem**
-Our company is diversifying their portfolio by venturing into the aviation industry. The aim is to purchase and operate aircraft for commercial and private enterprises. However, aviation involves significant safety risks, including accidents and operational hazards. The goal of this project is to analyze historical aircraft accident data to identify low-risk aircraft models and key risk factors that could impact operations.
+Umoja Logistics is diversifying their portfolio by venturing into the aviation industry. The aim is to purchase and operate aircraft for commercial and private enterprises. However, aviation involves significant safety risks, including accidents and operational hazards. The goal of this project is to analyze historical aircraft accident data to identify low-risk aircraft models and key risk factors that could impact operations.
 
 ## 1.4 **Objectives**
-1. Identify the aircract models with lowest accidents rate - This will involve analyzing the number of accidents based on aircraft 'Make' and 'Model' to determine the aircraft with the lowest risk of accidents.
-2. Identify risk factors contributing to aircraft accidents - This will involve tracking accident trends over the last 23years and weather conditions, broad phase of the aircraft, for example landing or taking off, as risk factors contributing to accident.
-3. Evaluate flight risks based on operations - Compare number of accidents between private commercial flight operations by analyzing Category of Purpose column to determine safer operational choices.
+1. Identify the safest aircract model  - This involves analyzing the number of accidents based on aircraft 'Make' and 'Model' to determine the aircraft with the lowest risk of accidents.
+2. Identify risk factors contributing to aircraft accidents - This involves tracking accident trends over the last 23years, impact of weather conditions and phase of aircraft when most accidents occur.
+3. Evaluate operational risks - Compare number of accidents between aircrafts for private operations and commercial operations.
 
 ## 1.5 **Method of Analysis**
-1. Descriptive Statistics: Summarizing the accident counts based on aircraft type and accident trend overtime.
-2. Data visualisation: Use of bar charts and line charts to analyse accident rates per aircraft.
-3. Risk Assessment: Analyze risk factors associated with number of accidents of the aircrafts.
+1. Descriptive Statistics: Summarizing the accident counts based on aircraft model, risk factors and operations of the aircraft.
+2. Data visualisation: Use of bar charts and line charts to visualize the above descriptive statistics.
+3. Risk Assessment: Identify risk factors associated with number of accidents of the aircrafts.
 
 ## 1.6 **Key Findings**
 
-1. The following chart shows the safest aircrafts based on lowest number of accidents for private and commercial flights to be prioritized:
+1. The following chart shows the safest aircrafts based on lowest number of accidents for private and commercial flights:
 
 ![Safest Aircracts](Images/Safest-aircrafts.jpg)
 
 
 
 
-2. The following chart shows that most accidents occurred under VMC(Visual Meteorological Conditions) to suggest that weather is not the primary risk factor associated with accidents but rather human error and possibly mechanical issues:
+2. The following chart shows that most accidents occurred under VMC(Visual Meteorological Conditions):
 
 ![Weather Conditions as a Risk Factor](Images/Weather-impact.jpg)
 
@@ -59,11 +59,9 @@ Our company is diversifying their portfolio by venturing into the aviation indus
 
 ## 1.7 **Conclusion**
 
-From out analysis of the Aviation Data we can conclude the following:
-
-1. The aircrafts with the high number of accidents may be due to high levels of usage
-2. Adverse weather conditions is a significant risk factor in aircraft accidents but it has not been the primary risk factor in the  
-21st Century. Additionally, Significant number of accidents often occur during landing, taking off and cruising
-3. Private flights have encountered a significant high number of accidents as compared to commercial flights
-
+From the analysis of the Aviation Data it be can concluded that:
+- The aircrafts with the high number of accidents may be due to high levels of usage
+- Adverse weather conditions is a significant risk factor in aircraft accidents but it has not been the primary risk factor in the 21st Century.  
+- The phase the aircraft is in when accidents occur remains majorly unknown, but a significant number of accidents often occur during landing, taking off and cruising making them significant risk factors.
+- Prioritizing operations of commercial flights is more viable as compared to private flights due to the high number of accidents encountered by private flights
 
