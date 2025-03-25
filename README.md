@@ -2,7 +2,7 @@
 ### ***Author:*** Patrice Okoiti
 
 ## 1.1 **Overview**
-This is a detailed project designed to help Umoja Logistics and other organisations looking to venture into the aviation industry, for private and commercial operations, to fully understand the risk factors associated with the indutry and act as a selection guide for the best operations category and the safest aircraft to start with. The analysis involves data cleaning, imputation, analysis, and visualization to generate insights for the board of directors.
+This project is designed to provide data-driven insights into the operations of private and commercial flights in the aviation industry. It is intended as a resource for the board of directors of Umoja Logistics to enter the aviation sector, focusing on private and commercial operations. The project will help them understand the various risk factors associated with the industry. It will act as a guide for selecting the most suitable operations category and the safest aircraft.
 
 ## 1.2 **Data Understanding**
 The selected Dataset https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses for this analysis is from the National Transportation Safety Board, available on Kaggle, detailing the civil aviation accidents and selected incidents in the United States and international waters between 1962 and 2023. It details aircraft accidents, including information on accident, aircraft specifications, weather conditions, and injury severity which are relevant to this analysis.
