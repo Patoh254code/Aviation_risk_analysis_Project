@@ -1,4 +1,4 @@
-# 1.0 **Project Title: Risk Assessment for the Operation of Private and Commercial Aircrafts**
+# 1.0 **Project Title: Risk Assessment for the Operations of Private and Commercial Aircrafts**
 ### ***Author:*** Patrice Okoiti
 
 ## 1.1 **Overview**
