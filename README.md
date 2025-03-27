@@ -52,6 +52,8 @@ Umoja Logistics is diversifying their portfolio by venturing into the aviation i
 ![Risks Based on Flight Operations](Images/Operations-risk.jpg)
 
 
+
+
 ## 1.7 **Conclusion**
 
 From the analysis of the Aviation Data it be can concluded that:
