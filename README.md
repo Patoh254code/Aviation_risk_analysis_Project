@@ -19,7 +19,7 @@ The selected Dataset https://www.kaggle.com/datasets/khsamaha/aviation-accident-
 
 -***Features:*** The most important features relevant to the analysis from the dataset include unique identifiers of aircraft, that is, Make, Model, Date and risk factors associated with aircraft accidents, that is, Weather Conditions, Broad phase of flight
 
--***Target:*** The target audience for this analysis is the board of directors of Umoja Logistics and any other organisation who looking to diversify their portfolio by venturing into aviation industry, particularly operating private and commercial aircrafts.
+-***Target:*** The target audience for this analysis is the board of directors of Umoja Logistics and any other organisation looking to diversify their portfolio by venturing into aviation industry, particularly operating private and commercial aircrafts.
 
 ## 1.3 **Business problem**
 Umoja Logistics is diversifying their portfolio by venturing into the aviation industry. The aim is to purchase and operate aircraft for commercial and private enterprises. However, aviation involves significant safety risks, including accidents and operational hazards. The goal of this project is to analyze historical aircraft accident data to identify low-risk aircraft models and key risk factors that could impact operations.
