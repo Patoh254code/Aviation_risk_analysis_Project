@@ -41,9 +41,11 @@ Umoja Logistics is diversifying their portfolio by venturing into the aviation i
 
 ![Safest Aircracts](Images/Safest-aircrafts.jpg)
 
+
 2. The following chart shows that most accidents occurred under VMC(Visual Meteorological Conditions):
 
 ![Weather Conditions as a Risk Factor](Images/Weather-impact.jpg)
+
 
 3. The following chart shows that venturing into private flight operations is riskier than commercial flights operations:
 
