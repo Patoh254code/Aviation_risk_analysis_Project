@@ -1,0 +1,35 @@
+# Core data science packages
+numpy
+pandas
+scipy
+
+# Visualization packages
+matplotlib
+seaborn
+
+# Jupyter environment
+jupyter
+notebook
+ipykernel
+
+# Data handling
+python-dateutil
+pytz
+
+# Optional: Data format support
+openpyxl
+xlrd
+
+# Code quality and development tools
+black
+pylint
+pytest
+
+# Documentation
+nbconvert
+nbformat
+
+# Environment management
+pip
+setuptools
+wheel
